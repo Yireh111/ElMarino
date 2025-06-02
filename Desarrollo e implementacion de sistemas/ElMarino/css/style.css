@@ -1,0 +1,26 @@
+body {
+  font-size: 1.2rem;
+  background-color: #f8f9fa;
+}
+
+.btn {
+  font-size: 1.1rem;
+  padding: 10px;
+}
+
+input.form-control, select.form-select {
+  font-size: 1.1rem;
+  padding: 12px;
+}
+
+.navbar {
+  font-size: 1.1rem;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.alert {
+  font-size: 1.05rem;
+}
